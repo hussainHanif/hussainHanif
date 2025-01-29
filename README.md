@@ -37,12 +37,6 @@ With **8+ years of experience** in software engineering and project leadership, 
 
 ---
 
-### 📈 **GitHub Activity**  
-![](https://github-readme-stats.vercel.app/api?username=hussainHanif&theme=solarized-dark&hide_border=true&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=hussainHanif&theme=solarized-dark&hide_border=true)  
-
----
-
 ### 📬 **Let’s Collaborate**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hussaenhanif)
 [![Email](https://img.shields.io/badge/Email-Contact-%23D14836?style=for-the-badge&logo=gmail)](mailto:hussainhanif1612@gmail.com)
