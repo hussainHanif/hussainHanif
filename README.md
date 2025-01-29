@@ -1,21 +1,53 @@
-# 💫 About Me:
-Professional Summary<br><br><br>I am a Software Engineer with a strong background in project management and over 7 years of experience in web development. My career began in my teenage years, and since then, I have honed my skills in developing web applications across a wide array of technologies and frameworks. My expertise spans PHP, JavaScript, and various modern frameworks including Laravel, Symfony, ReactJS, VueJS, and Angular.<br><br>I am proficient in all stages of the software development lifecycle, from planning and design to testing and deployment. My passion lies in collaborating with diverse teams and professionals, which enhances my ability to build strong relationships and drive projects towards successful outcomes.<br><br>With excellent communication and collaboration skills, I excel in working with cross-functional teams to analyze business requirements and develop tailored solutions.<br><br>Technical Skills:<br><br>PHP Frameworks: Laravel, CodeIgniter, Symfony, CakePHP, Yii, Zend Framework<br><br>JavaScript Frameworks/Libraries: Inertia.js, Vue.js, React.js, Angular.js, Nest.js, Next.js, Node.js, TypeScript, jQuery<br><br>AI/ML Tools: LangChain, Hugging Face<br><br>Database Management: PostgreSQL, MySQL, SQLite, MongoDB, Vector Databases, Supabase<br><br>DevOps: Docker, CI/CD Pipelines, Azure Functions, AWS Lambda<br><br>Sure! Here’s a more interesting and engaging version:<br><br><br><br>About Hussain Hanif<br><br><br>I’m an extroverted dynamo with an insatiable curiosity for new cultures and conversations. Having mastered the art of remote work over the past 3-4 years, I’ve become a pro at transforming pajama days into productivity powerhouses and discovering that video calls are surprisingly great (though they can’t beat a good coffee spill). When I’m not immersed in code or trying to decode the mysteries of various time zones, you’ll find me in my element—crushing it in games and perfecting my cricket technique.<br><br>If I were to channel my inner superhero, I’d be a bit like Tony Stark: minus the billions, the iron suit, and the super-genius intellect—but with a similar flair for building cool things and a love for a good chuckle. Need a coding partner or someone to crack a superhero joke with? I’m your go-to guy!
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hussaenhanif) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hussainHanif&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hussainHanif&theme=solarized-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hussainHanif&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hussainHanif&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+# 🚀 Hussain Hanif  
+**👨💻 Lead Software Architect & Full-Stack Developer | AI/ML Enthusiast**  
+**🌍 Remote Work Specialist (Germany 🇩🇪 | Australia 🇦🇺 | USA 🇺🇸)**  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hussainHanif&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📌 **About Me**  
+With **8+ years of experience** in software engineering and project leadership, I specialize in delivering scalable web applications and AI-driven solutions. My expertise spans **full-stack development**, **system design**, and **cross-functional collaboration**, with a focus on turning complex requirements into clean, maintainable code.  
+
+**Key Strengths:**  
+✅ **Technical Leadership**: Led remote teams across 15+ countries to deliver high-impact projects.  
+✅ **AI/ML Integration**: Built compliance tools with LangChain, Hugging Face, and custom models.  
+✅ **Performance Optimization**: DevOps-driven deployments (Docker, AWS, Azure) with CI/CD pipelines.  
+
+---
+
+### 🛠️ **Technical Expertise**  
+
+#### **Core Stack**  
+| **Category**       | **Technologies**                                                                 |
+|---------------------|---------------------------------------------------------------------------------|
+| **Frontend**        | React, Angular, Vue.js, TypeScript, TailwindCSS                                 |
+| **Backend**         | Laravel, Symfony, Node.js, NestJS, Express.js, Flask                            |
+| **AI/ML**           | LangChain, Hugging Face, Vector Databases, Python                               |
+| **Databases**       | PostgreSQL, MySQL, MongoDB, Supabase, SQLite                                    |
+| **DevOps & Cloud**  | Docker, AWS (Lambda), Azure Functions, GitHub Actions, GitLab CI/CD             |
+
+#### **Badges**  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 📈 **GitHub Activity**  
+![](https://github-readme-stats.vercel.app/api?username=hussainHanif&theme=solarized-dark&hide_border=true&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=hussainHanif&theme=solarized-dark&hide_border=true)  
+
+---
+
+### 📬 **Let’s Collaborate**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hussaenhanif)
+[![Email](https://img.shields.io/badge/Email-Contact-%23D14836?style=for-the-badge&logo=gmail)](mailto:hussainhanif1612@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-%23000000?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1dEVy1Fn9kSii6y_wabmr-wnnAVFRpZbl/view)
+
+---
+
+**Proudly crafted with ❤️ and too much coffee.**  
