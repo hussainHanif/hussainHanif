@@ -40,7 +40,8 @@ With **8+ years of experience** in software engineering and project leadership, 
 ### 📬 **Let’s Collaborate**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hussaenhanif)
 [![Email](https://img.shields.io/badge/Email-Contact-%23D14836?style=for-the-badge&logo=gmail)](mailto:hussainhanif1612@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-%23000000?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1dEVy1Fn9kSii6y_wabmr-wnnAVFRpZbl/view)
+[![Resume](https://img.shields.io/badge/Resume-Download-%23000000?style=for-the-badge&logo=googledrive)]
+(https://drive.google.com/file/d/16Ad6XaMp86NRvAGlw5WAKhChU2bxUIC6/view)
 
 ---
 
